@@ -19,3 +19,8 @@ function sayHiToGrandma(string) {
 sayHiToGrandma('hello');
 
 console.log (response)
+
+sayHitoGrandma()
+sayHelloTo("Jane") // "Hello, Jane!"
+sayHelloTo("R2-D2") // "Hello, R2-D2!"
+sayHelloTo(1)
