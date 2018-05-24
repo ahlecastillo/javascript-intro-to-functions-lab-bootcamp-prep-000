@@ -12,8 +12,11 @@ function logWhisper(string) {
 }
 logWhisper('HELLO');
 
-If; 
+' */ this is a commentyou can ignore it //* ' ;
+
+If 
 var sayHiToGrandma = lowercase 
+
 function sayHiToGrandma(string) {
   return "I can't hear you!"
 }
