@@ -12,7 +12,6 @@ function logWhisper(string) {
 }
 logWhisper('HELLO');
 
-' */ the whole grandma section starts here //* ' ;
 
 function sayHiToGrandma(string) {
   if (string.toLowerCase() === string)
