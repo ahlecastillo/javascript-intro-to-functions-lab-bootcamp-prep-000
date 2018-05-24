@@ -17,7 +17,6 @@ function sayHiToGrandma(string) {
   return 
 }
 
-
 sayHitoGrandma('HELL0')
 sayHitoGrandma('I love you, Grandma.')
 sayHitoGrandma('hello')
