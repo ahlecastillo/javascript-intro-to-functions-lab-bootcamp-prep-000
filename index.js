@@ -8,5 +8,5 @@ function whisper(string) {
   return string.toLowerCase()
 }
 function logWhisper(string) {
-  console.log('logwhisper.string'.toLowerCase())
+  console.log('logWhisper.string'.toLowerCase())
 }
