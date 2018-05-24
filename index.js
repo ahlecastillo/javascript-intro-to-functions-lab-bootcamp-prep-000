@@ -13,9 +13,10 @@ function logWhisper(string) {
 logWhisper('HELLO');
 
 ' */ the whole grandma section starts here //* ' ;
+
 function sayHiToGrandma(string) {
   return 
-  if string
+
 }
 
 sayHitoGrandma('HELL0')
