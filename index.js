@@ -15,4 +15,4 @@ logWhisper('HELLO');
 function sayHiToGrandma(string) {
   return string.toLowercase()
 }
-sayHIToGrandma 
+sayHIToGrandma('hello')
