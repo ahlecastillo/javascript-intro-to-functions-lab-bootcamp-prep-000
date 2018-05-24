@@ -15,11 +15,10 @@ logWhisper('HELLO');
 ' */ the whole grandma section starts here //* ' ;
 function sayHiToGrandma(string) {
   return 
+  if string
 }
 
 sayHitoGrandma('HELL0')
 sayHitoGrandma('I love you, Grandma.')
 sayHitoGrandma('hello')
 
-var uppercase = "HELLO!"
-var lowercase = 'hello!'
