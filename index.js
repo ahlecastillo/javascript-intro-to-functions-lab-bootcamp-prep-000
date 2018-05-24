@@ -18,7 +18,7 @@ function sayHiToGrandma(string) {
   return 
 }
 
-sayHitoGrandma('HELL0')
-sayHitoGrandma('I love you, Grandma.')
-sayHitoGrandma('hello')
+sayHitoGrandma.uppercase = ('HELL0')
+sayHitoGrandma.loveyou = ('I love you, Grandma.')
+sayHitoGrandma.lowercase = ('hello')
 
