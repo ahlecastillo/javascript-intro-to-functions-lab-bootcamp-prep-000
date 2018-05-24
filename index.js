@@ -5,5 +5,5 @@ function logShout(string) {
   console.log(string.toUpperCase())
 }
 function sayHiToGrandma(string) {
-  return (string.toLowerCase())
+  if (sayHiToGrandma.string === lowercase)
 }
