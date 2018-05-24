@@ -12,8 +12,7 @@ function logWhisper(string) {
 }
 logWhisper('HELLO');
 
-' */ this is a commentyou can ignore it //* ' ;
-
+' */ the whole grandma section starts here //* ' ;
 function sayHiToGrandma(string) {
   return "I can't hear you!"
 }
