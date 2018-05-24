@@ -14,9 +14,8 @@ logWhisper('HELLO');
 
 ' */ the whole grandma section starts here //* ' ;
 function sayHiToGrandma(string) {
+  return 
 }
-if 
-
 
 sayHitoGrandma('HELL0')
 sayHitoGrandma('I love you, Grandma.')
