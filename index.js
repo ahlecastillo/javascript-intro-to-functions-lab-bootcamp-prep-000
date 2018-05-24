@@ -14,7 +14,7 @@ logWhisper('HELLO');
 
 ' */ the whole grandma section starts here //* ' ;
 
-function sayHiToGrandma(string) {
+function sayHiToGrandma.(string) {
   return 
 }
 
