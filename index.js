@@ -14,13 +14,10 @@ logWhisper('HELLO');
 
 ' */ the whole grandma section starts here //* ' ;
 function sayHiToGrandma(string) {
-  return "I can't hear you!"
+  return 
 }
-sayHiToGrandma('hello');
 
-console.log (response)
 
-sayHitoGrandma()
-sayHelloTo("Jane") // "Hello, Jane!"
-sayHelloTo("R2-D2") // "Hello, R2-D2!"
-sayHelloTo(1)
+sayHitoGrandma('HELL0')
+sayHitoGrandma('I love you, Grandma.')
+sayHitoGrandma('hello')
