@@ -14,11 +14,8 @@ logWhisper('HELLO');
 
 ' */ the whole grandma section starts here //* ' ;
 
-function sayHiToGrandma.uppercase {
-  return 
+function sayHiToGrandma(string) {
+  if 
+ 
 }
-
-sayHitoGrandma.uppercase = ('HELL0')
-sayHitoGrandma.loveyou = ('I love you, Grandma.')
-sayHitoGrandma.lowercase = ('hello')
 
