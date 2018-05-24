@@ -20,3 +20,6 @@ function sayHiToGrandma(string) {
 sayHitoGrandma('HELL0')
 sayHitoGrandma('I love you, Grandma.')
 sayHitoGrandma('hello')
+
+var uppercase = "HELLO!"
+var lowercase = 'hello!'
