@@ -9,4 +9,7 @@ function whisper(string) {
 }
 function logWhisper(string) {
   console.log("logWhisper(HELLO).toLowerCase")
+
+var string = HELLO
+
 }
